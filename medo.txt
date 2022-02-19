@@ -1,2 +1,0 @@
-this txt created in remote repo
-edited in origin
